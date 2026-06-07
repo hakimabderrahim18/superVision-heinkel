@@ -177,15 +177,22 @@ for f in glob.glob('INPUTS/Journal Avec Detail*.xls'):
         total_colis = 0.0
         doc_count = 0
         seller_prod_sales = {}
+        current_discount_rate = 0.0
         
         for idx, row in df.iterrows():
             val = str(row.iloc[2]).strip()
             if val.startswith('BL') and idx > 1:
                 doc_count += 1
                 ca_val = pd.to_numeric(row.iloc[8], errors='coerce')
+                brut_val = pd.to_numeric(row.iloc[6], errors='coerce')
                 date_val = row.iloc[3]
                 client_name = str(row.iloc[5]).strip()
                 client_code = str(row.iloc[4]).strip()
+                
+                if not pd.isna(brut_val) and brut_val > 0 and not pd.isna(ca_val):
+                    current_discount_rate = (brut_val - ca_val) / brut_val
+                else:
+                    current_discount_rate = 0.0
                 
                 if not pd.isna(ca_val) and not pd.isna(date_val):
                     total_ca += ca_val
@@ -221,8 +228,13 @@ for f in glob.glob('INPUTS/Journal Avec Detail*.xls'):
                                 factor = colisage_factors.get(prod_name, 12)
                                 total_colis += qty_val_parsed / factor
                                 
-                                # Aggregate product sales
-                                ca_prod = qty_val_parsed * (price_val if not pd.isna(price_val) else 0.0)
+                                disc_val = row.iloc[5]
+                                disc_pct = pd.to_numeric(disc_val, errors='coerce')
+                                if pd.isna(disc_pct):
+                                    disc_pct = 0.0
+                                ca_prod_brut = qty_val_parsed * (price_val if not pd.isna(price_val) else 0.0) * (1.0 - disc_pct / 100.0)
+                                ca_prod = ca_prod_brut * (1 - current_discount_rate)
+                                
                                 if prod_name not in product_sales:
                                     product_sales[prod_name] = {'qty': 0.0, 'ca': 0.0}
                                 product_sales[prod_name]['qty'] += qty_val_parsed

@@ -82,26 +82,26 @@ const DATASET = {
           {
             "designation": "ISIS HS 750 G LEMON LIMITLESS",
             "qty": 6480,
-            "val": 1380240.0,
-            "contrib": "16.4%"
+            "val": 1343026.79,
+            "contrib": "16.0%"
           },
           {
             "designation": "ISIS HS 300 G LEMON LIMITLESS",
             "qty": 14275,
-            "val": 1284750.0,
-            "contrib": "15.3%"
+            "val": 1250184.79,
+            "contrib": "14.9%"
           },
           {
             "designation": "PRIL ISIS ULTRA POWER 1.25 L",
             "qty": 2280,
-            "val": 725040.0,
-            "contrib": "8.6%"
+            "val": 697116.04,
+            "contrib": "8.3%"
           },
           {
             "designation": "BREF JAVEL PURE POWER 900 ML-DZ",
             "qty": 7332,
-            "val": 685542.0,
-            "contrib": "8.2%"
+            "val": 666164.18,
+            "contrib": "7.9%"
           }
         ],
         "portfolio": 50,
@@ -115,32 +115,32 @@ const DATASET = {
           },
           {
             "date": "02/05",
-            "sales_ht": 273685.0,
+            "sales_ht": 271887.52,
             "volume": 1576
           },
           {
             "date": "03/05",
-            "sales_ht": 243748.0,
+            "sales_ht": 241376.2,
             "volume": 1497
           },
           {
             "date": "04/05",
-            "sales_ht": 341968.0,
+            "sales_ht": 339754.72,
             "volume": 2193
           },
           {
             "date": "05/05",
-            "sales_ht": 653012.0,
+            "sales_ht": 631969.4,
             "volume": 3655
           },
           {
             "date": "06/05",
-            "sales_ht": 514840.0,
+            "sales_ht": 497148.32,
             "volume": 2866
           },
           {
             "date": "07/05",
-            "sales_ht": 655726.0,
+            "sales_ht": 641571.04,
             "volume": 4258
           },
           {
@@ -150,12 +150,12 @@ const DATASET = {
           },
           {
             "date": "09/05",
-            "sales_ht": 287692.0,
+            "sales_ht": 282000.52,
             "volume": 1709
           },
           {
             "date": "10/05",
-            "sales_ht": 396964.0,
+            "sales_ht": 389188.76,
             "volume": 1957
           },
           {
@@ -165,17 +165,17 @@ const DATASET = {
           },
           {
             "date": "12/05",
-            "sales_ht": 588520.0,
+            "sales_ht": 564229.88,
             "volume": 3137
           },
           {
             "date": "13/05",
-            "sales_ht": 269988.0,
+            "sales_ht": 260011.78,
             "volume": 1344
           },
           {
             "date": "14/05",
-            "sales_ht": 469444.0,
+            "sales_ht": 453498.8,
             "volume": 2737
           },
           {
@@ -185,32 +185,32 @@ const DATASET = {
           },
           {
             "date": "16/05",
-            "sales_ht": 197401.0,
+            "sales_ht": 189713.82,
             "volume": 1119
           },
           {
             "date": "17/05",
-            "sales_ht": 424760.0,
+            "sales_ht": 406463.82,
             "volume": 3108
           },
           {
             "date": "18/05",
-            "sales_ht": 236658.0,
+            "sales_ht": 227617.78,
             "volume": 1405
           },
           {
             "date": "19/05",
-            "sales_ht": 553875.0,
+            "sales_ht": 530782.24,
             "volume": 2991
           },
           {
             "date": "20/05",
-            "sales_ht": 312172.0,
+            "sales_ht": 296551.12,
             "volume": 1605
           },
           {
             "date": "21/05",
-            "sales_ht": 313682.0,
+            "sales_ht": 298111.44,
             "volume": 1902
           },
           {
@@ -220,22 +220,22 @@ const DATASET = {
           },
           {
             "date": "23/05",
-            "sales_ht": 229233.0,
+            "sales_ht": 217977.47,
             "volume": 1101
           },
           {
             "date": "24/05",
-            "sales_ht": 191734.0,
+            "sales_ht": 185148.94,
             "volume": 1006
           },
           {
             "date": "25/05",
-            "sales_ht": 265880.0,
+            "sales_ht": 252990.47,
             "volume": 1285
           },
           {
             "date": "26/05",
-            "sales_ht": 120338.0,
+            "sales_ht": 115369.16,
             "volume": 580
           },
           {
@@ -255,12 +255,12 @@ const DATASET = {
           },
           {
             "date": "30/05",
-            "sales_ht": 266118.0,
+            "sales_ht": 246291.2,
             "volume": 1420
           },
           {
             "date": "31/05",
-            "sales_ht": 311702.0,
+            "sales_ht": 298208.29,
             "volume": 1344
           }
         ]
@@ -283,26 +283,26 @@ const DATASET = {
           {
             "designation": "ISIS HS 300 G LEMON LIMITLESS",
             "qty": 18400,
-            "val": 1656000.0,
-            "contrib": "24.8%"
+            "val": 1593352.29,
+            "contrib": "23.8%"
           },
           {
             "designation": "ISIS HS 750 G LEMON LIMITLESS",
             "qty": 4812,
-            "val": 1024956.0,
-            "contrib": "15.3%"
+            "val": 987326.46,
+            "contrib": "14.8%"
           },
           {
             "designation": "BREF JAVEL PURE POWER 900 ML-DZ",
             "qty": 5580,
-            "val": 521730.0,
-            "contrib": "7.8%"
+            "val": 501626.04,
+            "contrib": "7.5%"
           },
           {
             "designation": "LE CHAT REGULAR 2.5 l ADV23",
             "qty": 606,
-            "val": 493890.0,
-            "contrib": "7.4%"
+            "val": 475273.15,
+            "contrib": "7.1%"
           }
         ],
         "portfolio": 50,
@@ -316,17 +316,17 @@ const DATASET = {
           },
           {
             "date": "02/05",
-            "sales_ht": 206548.0,
+            "sales_ht": 201872.16,
             "volume": 1293
           },
           {
             "date": "03/05",
-            "sales_ht": 66464.0,
+            "sales_ht": 64203.84,
             "volume": 346
           },
           {
             "date": "04/05",
-            "sales_ht": 458254.0,
+            "sales_ht": 438101.0,
             "volume": 3636
           },
           {
@@ -336,12 +336,12 @@ const DATASET = {
           },
           {
             "date": "06/05",
-            "sales_ht": 436062.0,
+            "sales_ht": 428868.92,
             "volume": 2595
           },
           {
             "date": "07/05",
-            "sales_ht": 210413.0,
+            "sales_ht": 202686.8,
             "volume": 1405
           },
           {
@@ -351,32 +351,32 @@ const DATASET = {
           },
           {
             "date": "09/05",
-            "sales_ht": 416329.0,
+            "sales_ht": 400557.6,
             "volume": 2954
           },
           {
             "date": "10/05",
-            "sales_ht": 211142.0,
+            "sales_ht": 201795.44,
             "volume": 869
           },
           {
             "date": "11/05",
-            "sales_ht": 502168.0,
+            "sales_ht": 482829.84,
             "volume": 3474
           },
           {
             "date": "12/05",
-            "sales_ht": 445330.0,
+            "sales_ht": 427966.24,
             "volume": 2787
           },
           {
             "date": "13/05",
-            "sales_ht": 210630.0,
+            "sales_ht": 202543.6,
             "volume": 1216
           },
           {
             "date": "14/05",
-            "sales_ht": 378978.0,
+            "sales_ht": 363456.96,
             "volume": 1943
           },
           {
@@ -386,32 +386,32 @@ const DATASET = {
           },
           {
             "date": "16/05",
-            "sales_ht": 240094.0,
+            "sales_ht": 228006.95,
             "volume": 1412
           },
           {
             "date": "17/05",
-            "sales_ht": 255216.0,
+            "sales_ht": 241435.85,
             "volume": 1557
           },
           {
             "date": "18/05",
-            "sales_ht": 426586.0,
+            "sales_ht": 407650.24,
             "volume": 3050
           },
           {
             "date": "19/05",
-            "sales_ht": 167122.0,
+            "sales_ht": 160329.46,
             "volume": 868
           },
           {
             "date": "20/05",
-            "sales_ht": 344562.0,
+            "sales_ht": 325845.5,
             "volume": 1938
           },
           {
             "date": "21/05",
-            "sales_ht": 395748.0,
+            "sales_ht": 377714.44,
             "volume": 1274
           },
           {
@@ -421,22 +421,22 @@ const DATASET = {
           },
           {
             "date": "23/05",
-            "sales_ht": 331928.0,
+            "sales_ht": 314415.34,
             "volume": 1951
           },
           {
             "date": "24/05",
-            "sales_ht": 329242.0,
+            "sales_ht": 308831.67,
             "volume": 1985
           },
           {
             "date": "25/05",
-            "sales_ht": 402212.0,
+            "sales_ht": 382976.5,
             "volume": 2462
           },
           {
             "date": "26/05",
-            "sales_ht": 192506.0,
+            "sales_ht": 184169.65,
             "volume": 1001
           },
           {
@@ -456,12 +456,12 @@ const DATASET = {
           },
           {
             "date": "30/05",
-            "sales_ht": 235010.0,
+            "sales_ht": 222059.98,
             "volume": 1378
           },
           {
             "date": "31/05",
-            "sales_ht": 120210.0,
+            "sales_ht": 115037.46,
             "volume": 656
           }
         ]
@@ -685,26 +685,26 @@ const DATASET = {
           {
             "designation": "ISIS HS 300 G LEMON LIMITLESS",
             "qty": 8869,
-            "val": 798210.0,
-            "contrib": "17.0%"
+            "val": 772857.78,
+            "contrib": "16.5%"
           },
           {
             "designation": "ISIS HS 750 G LEMON LIMITLESS",
             "qty": 2808,
-            "val": 598104.0,
-            "contrib": "12.8%"
+            "val": 578738.82,
+            "contrib": "12.4%"
           },
           {
             "designation": "LE CHAT REGULAR 2.5 l ADV23",
             "qty": 516,
-            "val": 420540.0,
-            "contrib": "9.0%"
+            "val": 407672.73,
+            "contrib": "8.7%"
           },
           {
             "designation": "PRIL ISIS LImited Edition 650 ML",
             "qty": 1404,
-            "val": 263952.0,
-            "contrib": "5.6%"
+            "val": 243443.38,
+            "contrib": "5.2%"
           }
         ],
         "portfolio": 45,
@@ -718,32 +718,32 @@ const DATASET = {
           },
           {
             "date": "02/05",
-            "sales_ht": 155456.0,
+            "sales_ht": 153019.52,
             "volume": 1097
           },
           {
             "date": "03/05",
-            "sales_ht": 101486.0,
+            "sales_ht": 99661.76,
             "volume": 491
           },
           {
             "date": "04/05",
-            "sales_ht": 144264.0,
+            "sales_ht": 140656.36,
             "volume": 941
           },
           {
             "date": "05/05",
-            "sales_ht": 141226.0,
+            "sales_ht": 138278.6,
             "volume": 749
           },
           {
             "date": "06/05",
-            "sales_ht": 206158.0,
+            "sales_ht": 197550.84,
             "volume": 1416
           },
           {
             "date": "07/05",
-            "sales_ht": 195555.0,
+            "sales_ht": 189671.72,
             "volume": 1325
           },
           {
@@ -753,32 +753,32 @@ const DATASET = {
           },
           {
             "date": "09/05",
-            "sales_ht": 376498.0,
+            "sales_ht": 363173.92,
             "volume": 2127
           },
           {
             "date": "10/05",
-            "sales_ht": 174302.0,
+            "sales_ht": 169823.76,
             "volume": 698
           },
           {
             "date": "11/05",
-            "sales_ht": 205690.0,
+            "sales_ht": 198223.68,
             "volume": 1145
           },
           {
             "date": "12/05",
-            "sales_ht": 255935.0,
+            "sales_ht": 248494.18,
             "volume": 1228
           },
           {
             "date": "13/05",
-            "sales_ht": 332244.0,
+            "sales_ht": 318034.2,
             "volume": 2067
           },
           {
             "date": "14/05",
-            "sales_ht": 201809.0,
+            "sales_ht": 196500.68,
             "volume": 904
           },
           {
@@ -788,32 +788,32 @@ const DATASET = {
           },
           {
             "date": "16/05",
-            "sales_ht": 174084.0,
+            "sales_ht": 166379.65,
             "volume": 1072
           },
           {
             "date": "17/05",
-            "sales_ht": 231374.0,
+            "sales_ht": 222752.12,
             "volume": 795
           },
           {
             "date": "18/05",
-            "sales_ht": 225711.0,
+            "sales_ht": 214160.02,
             "volume": 1090
           },
           {
             "date": "19/05",
-            "sales_ht": 314223.0,
+            "sales_ht": 298712.23,
             "volume": 1603
           },
           {
             "date": "20/05",
-            "sales_ht": 185386.0,
+            "sales_ht": 178833.36,
             "volume": 1141
           },
           {
             "date": "21/05",
-            "sales_ht": 308086.0,
+            "sales_ht": 296978.03,
             "volume": 1257
           },
           {
@@ -823,12 +823,12 @@ const DATASET = {
           },
           {
             "date": "23/05",
-            "sales_ht": 198566.0,
+            "sales_ht": 189469.13,
             "volume": 1003
           },
           {
             "date": "24/05",
-            "sales_ht": 201398.0,
+            "sales_ht": 193225.25,
             "volume": 702
           },
           {
@@ -838,7 +838,7 @@ const DATASET = {
           },
           {
             "date": "26/05",
-            "sales_ht": 340513.0,
+            "sales_ht": 325194.14,
             "volume": 1458
           },
           {
@@ -858,12 +858,12 @@ const DATASET = {
           },
           {
             "date": "30/05",
-            "sales_ht": 92847.0,
+            "sales_ht": 88992.75,
             "volume": 469
           },
           {
             "date": "31/05",
-            "sales_ht": 99966.0,
+            "sales_ht": 95383.4,
             "volume": 450
           }
         ]
@@ -886,26 +886,26 @@ const DATASET = {
           {
             "designation": "ISIS HS 300 G LEMON LIMITLESS",
             "qty": 8900,
-            "val": 801000.0,
-            "contrib": "20.4%"
+            "val": 771341.11,
+            "contrib": "19.6%"
           },
           {
             "designation": "ISIS HS 750 G LEMON LIMITLESS",
             "qty": 3384,
-            "val": 720792.0,
-            "contrib": "18.3%"
+            "val": 693089.42,
+            "contrib": "17.6%"
           },
           {
             "designation": "PRIL ISIS LImited Edition 650 ML",
             "qty": 1692,
-            "val": 318096.0,
-            "contrib": "8.1%"
+            "val": 298743.78,
+            "contrib": "7.6%"
           },
           {
             "designation": "LE CHAT REGULAR 2.5 l ADV23",
             "qty": 367,
-            "val": 299105.0,
-            "contrib": "7.6%"
+            "val": 286911.03,
+            "contrib": "7.3%"
           }
         ],
         "portfolio": 45,
@@ -919,32 +919,32 @@ const DATASET = {
           },
           {
             "date": "02/05",
-            "sales_ht": 133722.0,
+            "sales_ht": 128373.12,
             "volume": 919
           },
           {
             "date": "03/05",
-            "sales_ht": 64084.0,
+            "sales_ht": 63037.6,
             "volume": 336
           },
           {
             "date": "04/05",
-            "sales_ht": 210820.0,
+            "sales_ht": 205708.0,
             "volume": 1115
           },
           {
             "date": "05/05",
-            "sales_ht": 160714.0,
+            "sales_ht": 159159.4,
             "volume": 1185
           },
           {
             "date": "06/05",
-            "sales_ht": 394206.0,
+            "sales_ht": 377429.84,
             "volume": 2807
           },
           {
             "date": "07/05",
-            "sales_ht": 110262.0,
+            "sales_ht": 108145.2,
             "volume": 724
           },
           {
@@ -954,32 +954,32 @@ const DATASET = {
           },
           {
             "date": "09/05",
-            "sales_ht": 202033.0,
+            "sales_ht": 192545.36,
             "volume": 1166
           },
           {
             "date": "10/05",
-            "sales_ht": 303270.0,
+            "sales_ht": 292308.76,
             "volume": 1576
           },
           {
             "date": "11/05",
-            "sales_ht": 207674.0,
+            "sales_ht": 198597.36,
             "volume": 823
           },
           {
             "date": "12/05",
-            "sales_ht": 279150.0,
+            "sales_ht": 266918.36,
             "volume": 1660
           },
           {
             "date": "13/05",
-            "sales_ht": 150326.0,
+            "sales_ht": 147213.44,
             "volume": 840
           },
           {
             "date": "14/05",
-            "sales_ht": 288492.0,
+            "sales_ht": 273111.56,
             "volume": 1617
           },
           {
@@ -989,12 +989,12 @@ const DATASET = {
           },
           {
             "date": "16/05",
-            "sales_ht": 202630.0,
+            "sales_ht": 195992.68,
             "volume": 1167
           },
           {
             "date": "17/05",
-            "sales_ht": 134032.0,
+            "sales_ht": 129856.35,
             "volume": 806
           },
           {
@@ -1004,17 +1004,17 @@ const DATASET = {
           },
           {
             "date": "19/05",
-            "sales_ht": 178863.0,
+            "sales_ht": 173263.63,
             "volume": 946
           },
           {
             "date": "20/05",
-            "sales_ht": 127086.0,
+            "sales_ht": 120966.64,
             "volume": 669
           },
           {
             "date": "21/05",
-            "sales_ht": 158343.5,
+            "sales_ht": 153106.0,
             "volume": 1008
           },
           {
@@ -1024,22 +1024,22 @@ const DATASET = {
           },
           {
             "date": "23/05",
-            "sales_ht": 42333.0,
+            "sales_ht": 41432.76,
             "volume": 295
           },
           {
             "date": "24/05",
-            "sales_ht": 168184.0,
+            "sales_ht": 162789.28,
             "volume": 965
           },
           {
             "date": "25/05",
-            "sales_ht": 133272.0,
+            "sales_ht": 126444.3,
             "volume": 636
           },
           {
             "date": "26/05",
-            "sales_ht": 109732.0,
+            "sales_ht": 104145.21,
             "volume": 562
           },
           {
@@ -1059,12 +1059,12 @@ const DATASET = {
           },
           {
             "date": "30/05",
-            "sales_ht": 199296.0,
+            "sales_ht": 178511.55,
             "volume": 993
           },
           {
             "date": "31/05",
-            "sales_ht": 141782.0,
+            "sales_ht": 135935.88,
             "volume": 875
           }
         ]
@@ -1078,32 +1078,32 @@ const DATASET = {
       },
       {
         "date": "02/05",
-        "sales_ht": 769411.0,
+        "sales_ht": 755152.32,
         "volume": 4885
       },
       {
         "date": "03/05",
-        "sales_ht": 475782.0,
+        "sales_ht": 468279.4,
         "volume": 2670
       },
       {
         "date": "04/05",
-        "sales_ht": 1155306.0,
+        "sales_ht": 1124220.08,
         "volume": 7885
       },
       {
         "date": "05/05",
-        "sales_ht": 954952.0,
+        "sales_ht": 929407.4,
         "volume": 5589
       },
       {
         "date": "06/05",
-        "sales_ht": 1551266.0,
+        "sales_ht": 1500997.92,
         "volume": 9684
       },
       {
         "date": "07/05",
-        "sales_ht": 1171956.0,
+        "sales_ht": 1142074.76,
         "volume": 7712
       },
       {
@@ -1113,32 +1113,32 @@ const DATASET = {
       },
       {
         "date": "09/05",
-        "sales_ht": 1282552.0,
+        "sales_ht": 1238277.4,
         "volume": 7956
       },
       {
         "date": "10/05",
-        "sales_ht": 1085678.0,
+        "sales_ht": 1053116.72,
         "volume": 5100
       },
       {
         "date": "11/05",
-        "sales_ht": 1881563.08,
+        "sales_ht": 1845681.96,
         "volume": 11371
       },
       {
         "date": "12/05",
-        "sales_ht": 2016063.18,
+        "sales_ht": 1954736.84,
         "volume": 13280
       },
       {
         "date": "13/05",
-        "sales_ht": 2409738.48,
+        "sales_ht": 2374353.5,
         "volume": 15203
       },
       {
         "date": "14/05",
-        "sales_ht": 1701821.48,
+        "sales_ht": 1649666.48,
         "volume": 10313
       },
       {
@@ -1148,32 +1148,32 @@ const DATASET = {
       },
       {
         "date": "16/05",
-        "sales_ht": 1908554.12,
+        "sales_ht": 1874438.22,
         "volume": 10594
       },
       {
         "date": "17/05",
-        "sales_ht": 1318080.0,
+        "sales_ht": 1273206.14,
         "volume": 8646
       },
       {
         "date": "18/05",
-        "sales_ht": 888955.0,
+        "sales_ht": 849428.04,
         "volume": 5545
       },
       {
         "date": "19/05",
-        "sales_ht": 1696319.4,
+        "sales_ht": 1645323.96,
         "volume": 8436
       },
       {
         "date": "20/05",
-        "sales_ht": 1108198.0,
+        "sales_ht": 1061188.62,
         "volume": 6953
       },
       {
         "date": "21/05",
-        "sales_ht": 1502100.58,
+        "sales_ht": 1452150.99,
         "volume": 8277
       },
       {
@@ -1183,22 +1183,22 @@ const DATASET = {
       },
       {
         "date": "23/05",
-        "sales_ht": 1184606.8,
+        "sales_ht": 1145841.5,
         "volume": 7047
       },
       {
         "date": "24/05",
-        "sales_ht": 890558.0,
+        "sales_ht": 849995.14,
         "volume": 4658
       },
       {
         "date": "25/05",
-        "sales_ht": 909176.58,
+        "sales_ht": 870223.85,
         "volume": 5461
       },
       {
         "date": "26/05",
-        "sales_ht": 763089.0,
+        "sales_ht": 728878.16,
         "volume": 3601
       },
       {
@@ -1218,12 +1218,12 @@ const DATASET = {
       },
       {
         "date": "30/05",
-        "sales_ht": 1037212.52,
+        "sales_ht": 979797.0,
         "volume": 5820
       },
       {
         "date": "31/05",
-        "sales_ht": 781117.72,
+        "sales_ht": 752022.75,
         "volume": 4159
       }
     ]
@@ -1262,26 +1262,26 @@ const DATASET = {
           {
             "designation": "ISIS HS 750 G LEMON LIMITLESS",
             "qty": 6480,
-            "val": 1380240.0,
-            "contrib": "16.4%"
+            "val": 1343026.79,
+            "contrib": "16.0%"
           },
           {
             "designation": "ISIS HS 300 G LEMON LIMITLESS",
             "qty": 14275,
-            "val": 1284750.0,
-            "contrib": "15.3%"
+            "val": 1250184.79,
+            "contrib": "14.9%"
           },
           {
             "designation": "PRIL ISIS ULTRA POWER 1.25 L",
             "qty": 2280,
-            "val": 725040.0,
-            "contrib": "8.6%"
+            "val": 697116.04,
+            "contrib": "8.3%"
           },
           {
             "designation": "BREF JAVEL PURE POWER 900 ML-DZ",
             "qty": 7332,
-            "val": 685542.0,
-            "contrib": "8.2%"
+            "val": 666164.18,
+            "contrib": "7.9%"
           }
         ],
         "portfolio": 50,
@@ -1295,32 +1295,32 @@ const DATASET = {
           },
           {
             "date": "02/05",
-            "sales_ht": 273685.0,
+            "sales_ht": 271887.52,
             "volume": 1576
           },
           {
             "date": "03/05",
-            "sales_ht": 243748.0,
+            "sales_ht": 241376.2,
             "volume": 1497
           },
           {
             "date": "04/05",
-            "sales_ht": 341968.0,
+            "sales_ht": 339754.72,
             "volume": 2193
           },
           {
             "date": "05/05",
-            "sales_ht": 653012.0,
+            "sales_ht": 631969.4,
             "volume": 3655
           },
           {
             "date": "06/05",
-            "sales_ht": 514840.0,
+            "sales_ht": 497148.32,
             "volume": 2866
           },
           {
             "date": "07/05",
-            "sales_ht": 655726.0,
+            "sales_ht": 641571.04,
             "volume": 4258
           },
           {
@@ -1330,12 +1330,12 @@ const DATASET = {
           },
           {
             "date": "09/05",
-            "sales_ht": 287692.0,
+            "sales_ht": 282000.52,
             "volume": 1709
           },
           {
             "date": "10/05",
-            "sales_ht": 396964.0,
+            "sales_ht": 389188.76,
             "volume": 1957
           },
           {
@@ -1345,17 +1345,17 @@ const DATASET = {
           },
           {
             "date": "12/05",
-            "sales_ht": 588520.0,
+            "sales_ht": 564229.88,
             "volume": 3137
           },
           {
             "date": "13/05",
-            "sales_ht": 269988.0,
+            "sales_ht": 260011.78,
             "volume": 1344
           },
           {
             "date": "14/05",
-            "sales_ht": 469444.0,
+            "sales_ht": 453498.8,
             "volume": 2737
           },
           {
@@ -1365,32 +1365,32 @@ const DATASET = {
           },
           {
             "date": "16/05",
-            "sales_ht": 197401.0,
+            "sales_ht": 189713.82,
             "volume": 1119
           },
           {
             "date": "17/05",
-            "sales_ht": 424760.0,
+            "sales_ht": 406463.82,
             "volume": 3108
           },
           {
             "date": "18/05",
-            "sales_ht": 236658.0,
+            "sales_ht": 227617.78,
             "volume": 1405
           },
           {
             "date": "19/05",
-            "sales_ht": 553875.0,
+            "sales_ht": 530782.24,
             "volume": 2991
           },
           {
             "date": "20/05",
-            "sales_ht": 312172.0,
+            "sales_ht": 296551.12,
             "volume": 1605
           },
           {
             "date": "21/05",
-            "sales_ht": 313682.0,
+            "sales_ht": 298111.44,
             "volume": 1902
           },
           {
@@ -1400,22 +1400,22 @@ const DATASET = {
           },
           {
             "date": "23/05",
-            "sales_ht": 229233.0,
+            "sales_ht": 217977.47,
             "volume": 1101
           },
           {
             "date": "24/05",
-            "sales_ht": 191734.0,
+            "sales_ht": 185148.94,
             "volume": 1006
           },
           {
             "date": "25/05",
-            "sales_ht": 265880.0,
+            "sales_ht": 252990.47,
             "volume": 1285
           },
           {
             "date": "26/05",
-            "sales_ht": 120338.0,
+            "sales_ht": 115369.16,
             "volume": 580
           },
           {
@@ -1435,12 +1435,12 @@ const DATASET = {
           },
           {
             "date": "30/05",
-            "sales_ht": 266118.0,
+            "sales_ht": 246291.2,
             "volume": 1420
           },
           {
             "date": "31/05",
-            "sales_ht": 311702.0,
+            "sales_ht": 298208.29,
             "volume": 1344
           }
         ]
@@ -1463,26 +1463,26 @@ const DATASET = {
           {
             "designation": "ISIS HS 300 G LEMON LIMITLESS",
             "qty": 18400,
-            "val": 1656000.0,
-            "contrib": "24.8%"
+            "val": 1593352.29,
+            "contrib": "23.8%"
           },
           {
             "designation": "ISIS HS 750 G LEMON LIMITLESS",
             "qty": 4812,
-            "val": 1024956.0,
-            "contrib": "15.3%"
+            "val": 987326.46,
+            "contrib": "14.8%"
           },
           {
             "designation": "BREF JAVEL PURE POWER 900 ML-DZ",
             "qty": 5580,
-            "val": 521730.0,
-            "contrib": "7.8%"
+            "val": 501626.04,
+            "contrib": "7.5%"
           },
           {
             "designation": "LE CHAT REGULAR 2.5 l ADV23",
             "qty": 606,
-            "val": 493890.0,
-            "contrib": "7.4%"
+            "val": 475273.15,
+            "contrib": "7.1%"
           }
         ],
         "portfolio": 50,
@@ -1496,17 +1496,17 @@ const DATASET = {
           },
           {
             "date": "02/05",
-            "sales_ht": 206548.0,
+            "sales_ht": 201872.16,
             "volume": 1293
           },
           {
             "date": "03/05",
-            "sales_ht": 66464.0,
+            "sales_ht": 64203.84,
             "volume": 346
           },
           {
             "date": "04/05",
-            "sales_ht": 458254.0,
+            "sales_ht": 438101.0,
             "volume": 3636
           },
           {
@@ -1516,12 +1516,12 @@ const DATASET = {
           },
           {
             "date": "06/05",
-            "sales_ht": 436062.0,
+            "sales_ht": 428868.92,
             "volume": 2595
           },
           {
             "date": "07/05",
-            "sales_ht": 210413.0,
+            "sales_ht": 202686.8,
             "volume": 1405
           },
           {
@@ -1531,32 +1531,32 @@ const DATASET = {
           },
           {
             "date": "09/05",
-            "sales_ht": 416329.0,
+            "sales_ht": 400557.6,
             "volume": 2954
           },
           {
             "date": "10/05",
-            "sales_ht": 211142.0,
+            "sales_ht": 201795.44,
             "volume": 869
           },
           {
             "date": "11/05",
-            "sales_ht": 502168.0,
+            "sales_ht": 482829.84,
             "volume": 3474
           },
           {
             "date": "12/05",
-            "sales_ht": 445330.0,
+            "sales_ht": 427966.24,
             "volume": 2787
           },
           {
             "date": "13/05",
-            "sales_ht": 210630.0,
+            "sales_ht": 202543.6,
             "volume": 1216
           },
           {
             "date": "14/05",
-            "sales_ht": 378978.0,
+            "sales_ht": 363456.96,
             "volume": 1943
           },
           {
@@ -1566,32 +1566,32 @@ const DATASET = {
           },
           {
             "date": "16/05",
-            "sales_ht": 240094.0,
+            "sales_ht": 228006.95,
             "volume": 1412
           },
           {
             "date": "17/05",
-            "sales_ht": 255216.0,
+            "sales_ht": 241435.85,
             "volume": 1557
           },
           {
             "date": "18/05",
-            "sales_ht": 426586.0,
+            "sales_ht": 407650.24,
             "volume": 3050
           },
           {
             "date": "19/05",
-            "sales_ht": 167122.0,
+            "sales_ht": 160329.46,
             "volume": 868
           },
           {
             "date": "20/05",
-            "sales_ht": 344562.0,
+            "sales_ht": 325845.5,
             "volume": 1938
           },
           {
             "date": "21/05",
-            "sales_ht": 395748.0,
+            "sales_ht": 377714.44,
             "volume": 1274
           },
           {
@@ -1601,22 +1601,22 @@ const DATASET = {
           },
           {
             "date": "23/05",
-            "sales_ht": 331928.0,
+            "sales_ht": 314415.34,
             "volume": 1951
           },
           {
             "date": "24/05",
-            "sales_ht": 329242.0,
+            "sales_ht": 308831.67,
             "volume": 1985
           },
           {
             "date": "25/05",
-            "sales_ht": 402212.0,
+            "sales_ht": 382976.5,
             "volume": 2462
           },
           {
             "date": "26/05",
-            "sales_ht": 192506.0,
+            "sales_ht": 184169.65,
             "volume": 1001
           },
           {
@@ -1636,12 +1636,12 @@ const DATASET = {
           },
           {
             "date": "30/05",
-            "sales_ht": 235010.0,
+            "sales_ht": 222059.98,
             "volume": 1378
           },
           {
             "date": "31/05",
-            "sales_ht": 120210.0,
+            "sales_ht": 115037.46,
             "volume": 656
           }
         ]
@@ -1865,26 +1865,26 @@ const DATASET = {
           {
             "designation": "ISIS HS 300 G LEMON LIMITLESS",
             "qty": 8869,
-            "val": 798210.0,
-            "contrib": "17.0%"
+            "val": 772857.78,
+            "contrib": "16.5%"
           },
           {
             "designation": "ISIS HS 750 G LEMON LIMITLESS",
             "qty": 2808,
-            "val": 598104.0,
-            "contrib": "12.8%"
+            "val": 578738.82,
+            "contrib": "12.4%"
           },
           {
             "designation": "LE CHAT REGULAR 2.5 l ADV23",
             "qty": 516,
-            "val": 420540.0,
-            "contrib": "9.0%"
+            "val": 407672.73,
+            "contrib": "8.7%"
           },
           {
             "designation": "PRIL ISIS LImited Edition 650 ML",
             "qty": 1404,
-            "val": 263952.0,
-            "contrib": "5.6%"
+            "val": 243443.38,
+            "contrib": "5.2%"
           }
         ],
         "portfolio": 45,
@@ -1898,32 +1898,32 @@ const DATASET = {
           },
           {
             "date": "02/05",
-            "sales_ht": 155456.0,
+            "sales_ht": 153019.52,
             "volume": 1097
           },
           {
             "date": "03/05",
-            "sales_ht": 101486.0,
+            "sales_ht": 99661.76,
             "volume": 491
           },
           {
             "date": "04/05",
-            "sales_ht": 144264.0,
+            "sales_ht": 140656.36,
             "volume": 941
           },
           {
             "date": "05/05",
-            "sales_ht": 141226.0,
+            "sales_ht": 138278.6,
             "volume": 749
           },
           {
             "date": "06/05",
-            "sales_ht": 206158.0,
+            "sales_ht": 197550.84,
             "volume": 1416
           },
           {
             "date": "07/05",
-            "sales_ht": 195555.0,
+            "sales_ht": 189671.72,
             "volume": 1325
           },
           {
@@ -1933,32 +1933,32 @@ const DATASET = {
           },
           {
             "date": "09/05",
-            "sales_ht": 376498.0,
+            "sales_ht": 363173.92,
             "volume": 2127
           },
           {
             "date": "10/05",
-            "sales_ht": 174302.0,
+            "sales_ht": 169823.76,
             "volume": 698
           },
           {
             "date": "11/05",
-            "sales_ht": 205690.0,
+            "sales_ht": 198223.68,
             "volume": 1145
           },
           {
             "date": "12/05",
-            "sales_ht": 255935.0,
+            "sales_ht": 248494.18,
             "volume": 1228
           },
           {
             "date": "13/05",
-            "sales_ht": 332244.0,
+            "sales_ht": 318034.2,
             "volume": 2067
           },
           {
             "date": "14/05",
-            "sales_ht": 201809.0,
+            "sales_ht": 196500.68,
             "volume": 904
           },
           {
@@ -1968,32 +1968,32 @@ const DATASET = {
           },
           {
             "date": "16/05",
-            "sales_ht": 174084.0,
+            "sales_ht": 166379.65,
             "volume": 1072
           },
           {
             "date": "17/05",
-            "sales_ht": 231374.0,
+            "sales_ht": 222752.12,
             "volume": 795
           },
           {
             "date": "18/05",
-            "sales_ht": 225711.0,
+            "sales_ht": 214160.02,
             "volume": 1090
           },
           {
             "date": "19/05",
-            "sales_ht": 314223.0,
+            "sales_ht": 298712.23,
             "volume": 1603
           },
           {
             "date": "20/05",
-            "sales_ht": 185386.0,
+            "sales_ht": 178833.36,
             "volume": 1141
           },
           {
             "date": "21/05",
-            "sales_ht": 308086.0,
+            "sales_ht": 296978.03,
             "volume": 1257
           },
           {
@@ -2003,12 +2003,12 @@ const DATASET = {
           },
           {
             "date": "23/05",
-            "sales_ht": 198566.0,
+            "sales_ht": 189469.13,
             "volume": 1003
           },
           {
             "date": "24/05",
-            "sales_ht": 201398.0,
+            "sales_ht": 193225.25,
             "volume": 702
           },
           {
@@ -2018,7 +2018,7 @@ const DATASET = {
           },
           {
             "date": "26/05",
-            "sales_ht": 340513.0,
+            "sales_ht": 325194.14,
             "volume": 1458
           },
           {
@@ -2038,12 +2038,12 @@ const DATASET = {
           },
           {
             "date": "30/05",
-            "sales_ht": 92847.0,
+            "sales_ht": 88992.75,
             "volume": 469
           },
           {
             "date": "31/05",
-            "sales_ht": 99966.0,
+            "sales_ht": 95383.4,
             "volume": 450
           }
         ]
@@ -2066,26 +2066,26 @@ const DATASET = {
           {
             "designation": "ISIS HS 300 G LEMON LIMITLESS",
             "qty": 8900,
-            "val": 801000.0,
-            "contrib": "20.4%"
+            "val": 771341.11,
+            "contrib": "19.6%"
           },
           {
             "designation": "ISIS HS 750 G LEMON LIMITLESS",
             "qty": 3384,
-            "val": 720792.0,
-            "contrib": "18.3%"
+            "val": 693089.42,
+            "contrib": "17.6%"
           },
           {
             "designation": "PRIL ISIS LImited Edition 650 ML",
             "qty": 1692,
-            "val": 318096.0,
-            "contrib": "8.1%"
+            "val": 298743.78,
+            "contrib": "7.6%"
           },
           {
             "designation": "LE CHAT REGULAR 2.5 l ADV23",
             "qty": 367,
-            "val": 299105.0,
-            "contrib": "7.6%"
+            "val": 286911.03,
+            "contrib": "7.3%"
           }
         ],
         "portfolio": 45,
@@ -2099,32 +2099,32 @@ const DATASET = {
           },
           {
             "date": "02/05",
-            "sales_ht": 133722.0,
+            "sales_ht": 128373.12,
             "volume": 919
           },
           {
             "date": "03/05",
-            "sales_ht": 64084.0,
+            "sales_ht": 63037.6,
             "volume": 336
           },
           {
             "date": "04/05",
-            "sales_ht": 210820.0,
+            "sales_ht": 205708.0,
             "volume": 1115
           },
           {
             "date": "05/05",
-            "sales_ht": 160714.0,
+            "sales_ht": 159159.4,
             "volume": 1185
           },
           {
             "date": "06/05",
-            "sales_ht": 394206.0,
+            "sales_ht": 377429.84,
             "volume": 2807
           },
           {
             "date": "07/05",
-            "sales_ht": 110262.0,
+            "sales_ht": 108145.2,
             "volume": 724
           },
           {
@@ -2134,32 +2134,32 @@ const DATASET = {
           },
           {
             "date": "09/05",
-            "sales_ht": 202033.0,
+            "sales_ht": 192545.36,
             "volume": 1166
           },
           {
             "date": "10/05",
-            "sales_ht": 303270.0,
+            "sales_ht": 292308.76,
             "volume": 1576
           },
           {
             "date": "11/05",
-            "sales_ht": 207674.0,
+            "sales_ht": 198597.36,
             "volume": 823
           },
           {
             "date": "12/05",
-            "sales_ht": 279150.0,
+            "sales_ht": 266918.36,
             "volume": 1660
           },
           {
             "date": "13/05",
-            "sales_ht": 150326.0,
+            "sales_ht": 147213.44,
             "volume": 840
           },
           {
             "date": "14/05",
-            "sales_ht": 288492.0,
+            "sales_ht": 273111.56,
             "volume": 1617
           },
           {
@@ -2169,12 +2169,12 @@ const DATASET = {
           },
           {
             "date": "16/05",
-            "sales_ht": 202630.0,
+            "sales_ht": 195992.68,
             "volume": 1167
           },
           {
             "date": "17/05",
-            "sales_ht": 134032.0,
+            "sales_ht": 129856.35,
             "volume": 806
           },
           {
@@ -2184,17 +2184,17 @@ const DATASET = {
           },
           {
             "date": "19/05",
-            "sales_ht": 178863.0,
+            "sales_ht": 173263.63,
             "volume": 946
           },
           {
             "date": "20/05",
-            "sales_ht": 127086.0,
+            "sales_ht": 120966.64,
             "volume": 669
           },
           {
             "date": "21/05",
-            "sales_ht": 158343.5,
+            "sales_ht": 153106.0,
             "volume": 1008
           },
           {
@@ -2204,22 +2204,22 @@ const DATASET = {
           },
           {
             "date": "23/05",
-            "sales_ht": 42333.0,
+            "sales_ht": 41432.76,
             "volume": 295
           },
           {
             "date": "24/05",
-            "sales_ht": 168184.0,
+            "sales_ht": 162789.28,
             "volume": 965
           },
           {
             "date": "25/05",
-            "sales_ht": 133272.0,
+            "sales_ht": 126444.3,
             "volume": 636
           },
           {
             "date": "26/05",
-            "sales_ht": 109732.0,
+            "sales_ht": 104145.21,
             "volume": 562
           },
           {
@@ -2239,12 +2239,12 @@ const DATASET = {
           },
           {
             "date": "30/05",
-            "sales_ht": 199296.0,
+            "sales_ht": 178511.55,
             "volume": 993
           },
           {
             "date": "31/05",
-            "sales_ht": 141782.0,
+            "sales_ht": 135935.88,
             "volume": 875
           }
         ]
@@ -2258,32 +2258,32 @@ const DATASET = {
       },
       {
         "date": "02/05",
-        "sales_ht": 769411.0,
+        "sales_ht": 755152.32,
         "volume": 4885
       },
       {
         "date": "03/05",
-        "sales_ht": 475782.0,
+        "sales_ht": 468279.4,
         "volume": 2670
       },
       {
         "date": "04/05",
-        "sales_ht": 1155306.0,
+        "sales_ht": 1124220.08,
         "volume": 7885
       },
       {
         "date": "05/05",
-        "sales_ht": 954952.0,
+        "sales_ht": 929407.4,
         "volume": 5589
       },
       {
         "date": "06/05",
-        "sales_ht": 1551266.0,
+        "sales_ht": 1500997.92,
         "volume": 9684
       },
       {
         "date": "07/05",
-        "sales_ht": 1171956.0,
+        "sales_ht": 1142074.76,
         "volume": 7712
       },
       {
@@ -2293,32 +2293,32 @@ const DATASET = {
       },
       {
         "date": "09/05",
-        "sales_ht": 1282552.0,
+        "sales_ht": 1238277.4,
         "volume": 7956
       },
       {
         "date": "10/05",
-        "sales_ht": 1085678.0,
+        "sales_ht": 1053116.72,
         "volume": 5100
       },
       {
         "date": "11/05",
-        "sales_ht": 1881563.08,
+        "sales_ht": 1845681.96,
         "volume": 11371
       },
       {
         "date": "12/05",
-        "sales_ht": 2016063.18,
+        "sales_ht": 1954736.84,
         "volume": 13280
       },
       {
         "date": "13/05",
-        "sales_ht": 2409738.48,
+        "sales_ht": 2374353.5,
         "volume": 15203
       },
       {
         "date": "14/05",
-        "sales_ht": 1701821.48,
+        "sales_ht": 1649666.48,
         "volume": 10313
       },
       {
@@ -2328,32 +2328,32 @@ const DATASET = {
       },
       {
         "date": "16/05",
-        "sales_ht": 1908554.12,
+        "sales_ht": 1874438.22,
         "volume": 10594
       },
       {
         "date": "17/05",
-        "sales_ht": 1318080.0,
+        "sales_ht": 1273206.14,
         "volume": 8646
       },
       {
         "date": "18/05",
-        "sales_ht": 888955.0,
+        "sales_ht": 849428.04,
         "volume": 5545
       },
       {
         "date": "19/05",
-        "sales_ht": 1696319.4,
+        "sales_ht": 1645323.96,
         "volume": 8436
       },
       {
         "date": "20/05",
-        "sales_ht": 1108198.0,
+        "sales_ht": 1061188.62,
         "volume": 6953
       },
       {
         "date": "21/05",
-        "sales_ht": 1502100.58,
+        "sales_ht": 1452150.99,
         "volume": 8277
       },
       {
@@ -2363,22 +2363,22 @@ const DATASET = {
       },
       {
         "date": "23/05",
-        "sales_ht": 1184606.8,
+        "sales_ht": 1145841.5,
         "volume": 7047
       },
       {
         "date": "24/05",
-        "sales_ht": 890558.0,
+        "sales_ht": 849995.14,
         "volume": 4658
       },
       {
         "date": "25/05",
-        "sales_ht": 909176.58,
+        "sales_ht": 870223.85,
         "volume": 5461
       },
       {
         "date": "26/05",
-        "sales_ht": 763089.0,
+        "sales_ht": 728878.16,
         "volume": 3601
       },
       {
@@ -2398,12 +2398,12 @@ const DATASET = {
       },
       {
         "date": "30/05",
-        "sales_ht": 1037212.52,
+        "sales_ht": 979797.0,
         "volume": 5820
       },
       {
         "date": "31/05",
-        "sales_ht": 781117.72,
+        "sales_ht": 752022.75,
         "volume": 4159
       }
     ]
@@ -2510,266 +2510,266 @@ const DATASET = {
       "rank": 1,
       "designation": "ISIS HS 300 G LEMON LIMITLESS",
       "volume": 65044,
-      "revenue_ht": 5808262.0,
+      "revenue_ht": 5656037.97,
       "category": "Soin du Linge"
     },
     {
       "rank": 2,
       "designation": "BREF JAVEL PURE POWER 900 ML-DZ",
       "volume": 25261,
-      "revenue_ht": 2303918.54,
+      "revenue_ht": 2252318.67,
       "category": "Nettoyants Surfaces"
     },
     {
       "rank": 3,
       "designation": "ISIS HS 750 G LEMON LIMITLESS",
       "volume": 22236,
-      "revenue_ht": 4702386.24,
+      "revenue_ht": 4580475.74,
       "category": "Soin du Linge"
     },
     {
       "rank": 4,
       "designation": "PRIL ISIS LImited Edition 650 ML",
       "volume": 18013,
-      "revenue_ht": 3211347.68,
+      "revenue_ht": 3096278.7,
       "category": "Soin de la Vaisselle"
     },
     {
       "rank": 5,
       "designation": "LE CHAT HS 300 GR ADV23",
       "volume": 5725,
-      "revenue_ht": 569114.0,
+      "revenue_ht": 554859.24,
       "category": "Soin du Linge"
     },
     {
       "rank": 6,
       "designation": "PRIL ISIS ULTRA POWER 1.25 L",
       "volume": 5076,
-      "revenue_ht": 1574740.8,
+      "revenue_ht": 1516226.63,
       "category": "Soin de la Vaisselle"
     },
     {
       "rank": 7,
       "designation": "LE CHAT HS ROSE 300 GR",
       "volume": 4625,
-      "revenue_ht": 462500.0,
+      "revenue_ht": 447076.27,
       "category": "Soin du Linge"
     },
     {
       "rank": 8,
       "designation": "PRIL ISIS ULTRA POWER 650 ML",
       "volume": 4401,
-      "revenue_ht": 827388.0,
+      "revenue_ht": 794813.86,
       "category": "Soin de la Vaisselle"
     },
     {
       "rank": 9,
       "designation": "LE CHAT HS ROSE 750 GR",
       "volume": 3300,
-      "revenue_ht": 771043.2,
+      "revenue_ht": 747157.02,
       "category": "Soin du Linge"
     },
     {
       "rank": 10,
       "designation": "BREF JAVEL REGULAR PURE POWER 1.75 L",
       "volume": 3024,
-      "revenue_ht": 492630.0,
+      "revenue_ht": 478850.96,
       "category": "Nettoyants Surfaces"
     },
     {
       "rank": 11,
       "designation": "ISIS HS 1.5 KG LEMON LIMITLESS",
       "volume": 3000,
-      "revenue_ht": 1250603.2,
+      "revenue_ht": 1207571.35,
       "category": "Soin du Linge"
     },
     {
       "rank": 12,
       "designation": "ISIS GOLD 5 EN 1 300 G",
       "volume": 2725,
-      "revenue_ht": 245250.0,
+      "revenue_ht": 237910.48,
       "category": "Soin du Linge"
     },
     {
       "rank": 13,
       "designation": "LE CHAT HS 750 GR ADV23",
       "volume": 2601,
-      "revenue_ht": 601643.88,
+      "revenue_ht": 586978.22,
       "category": "Soin du Linge"
     },
     {
       "rank": 14,
       "designation": "LE CHAT REGULAR 2.5 l ADV23",
       "volume": 2233,
-      "revenue_ht": 1813842.8,
+      "revenue_ht": 1759082.03,
       "category": "Soin du Linge"
     },
     {
       "rank": 15,
       "designation": "LE CHAT REGULAR 1 L ADV23",
       "volume": 1546,
-      "revenue_ht": 584388.0,
+      "revenue_ht": 568449.56,
       "category": "Soin du Linge"
     },
     {
       "rank": 16,
       "designation": "PRIL ISIS Limited edition 1.25 L",
       "volume": 1536,
-      "revenue_ht": 486369.6,
+      "revenue_ht": 448485.61,
       "category": "Soin de la Vaisselle"
     },
     {
       "rank": 17,
       "designation": "ISIS GOLD 5 EN 1 HS 750 G",
       "volume": 1300,
-      "revenue_ht": 276900.0,
+      "revenue_ht": 268891.77,
       "category": "Soin du Linge"
     },
     {
       "rank": 18,
       "designation": "LE CHAT HS POUDRE 1.5 KG",
       "volume": 1008,
-      "revenue_ht": 417488.0,
+      "revenue_ht": 404766.58,
       "category": "Soin du Linge"
     },
     {
       "rank": 19,
       "designation": "NETTOYANT MOUSSANT JAVELISE 900 ML",
       "volume": 900,
-      "revenue_ht": 120150.0,
+      "revenue_ht": 116429.24,
       "category": "Soin du Linge"
     },
     {
       "rank": 20,
       "designation": "PRIL ISIS ULTRA POWER 3 L",
       "volume": 792,
-      "revenue_ht": 556900.0,
+      "revenue_ht": 536437.83,
       "category": "Soin de la Vaisselle"
     },
     {
       "rank": 21,
       "designation": "LE CHAT ROSE 2.5 L ADV23",
       "volume": 641,
-      "revenue_ht": 521864.8,
+      "revenue_ht": 505823.63,
       "category": "Soin du Linge"
     },
     {
       "rank": 22,
       "designation": "ISIS GOLD LS GEL 2.5 L",
       "volume": 577,
-      "revenue_ht": 294270.0,
+      "revenue_ht": 285332.92,
       "category": "Soin du Linge"
     },
     {
       "rank": 23,
       "designation": "ISIS BOUQUET JASMIN 950 ML",
       "volume": 576,
-      "revenue_ht": 104256.0,
+      "revenue_ht": 100602.98,
       "category": "Soin du Linge"
     },
     {
       "rank": 24,
       "designation": "PRIL ISIS ANTIBACTERIEN 650 ML LEMON",
       "volume": 540,
-      "revenue_ht": 101520.0,
+      "revenue_ht": 95766.28,
       "category": "Soin de la Vaisselle"
     },
     {
       "rank": 25,
       "designation": "ISIS BOUQUET LAVANDE 950 ML",
       "volume": 524,
-      "revenue_ht": 94844.0,
+      "revenue_ht": 90744.93,
       "category": "Soin du Linge"
     },
     {
       "rank": 26,
       "designation": "PRIL ISIS 3 L edition limitée",
       "volume": 496,
-      "revenue_ht": 340995.2,
+      "revenue_ht": 336616.25,
       "category": "Soin de la Vaisselle"
     },
     {
       "rank": 27,
       "designation": "LE CHAT SDM 2.5L ADV23",
       "volume": 466,
-      "revenue_ht": 379790.0,
+      "revenue_ht": 367629.83,
       "category": "Soin du Linge"
     },
     {
       "rank": 28,
       "designation": "ISIS BOUQUET ROSE 950 ML",
       "volume": 440,
-      "revenue_ht": 79640.0,
+      "revenue_ht": 76612.98,
       "category": "Soin du Linge"
     },
     {
       "rank": 29,
       "designation": "LE CHAT REGULAR 4 L ADV23",
       "volume": 345,
-      "revenue_ht": 396510.0,
+      "revenue_ht": 381556.02,
       "category": "Soin du Linge"
     },
     {
       "rank": 30,
       "designation": "ISIS GOLD LAVENDER-DZ (B/L) - 2.5 L",
       "volume": 329,
-      "revenue_ht": 167790.0,
+      "revenue_ht": 162484.88,
       "category": "Soin du Linge"
     },
     {
       "rank": 31,
       "designation": "ISIS LS BAG 2.5 KG LEMON",
       "volume": 300,
-      "revenue_ht": 217500.0,
+      "revenue_ht": 210518.68,
       "category": "Soin du Linge"
     },
     {
       "rank": 32,
       "designation": "LE CHAT PREMIUM RL 2.5 L",
       "volume": 278,
-      "revenue_ht": 277352.0,
+      "revenue_ht": 268971.03,
       "category": "Soin du Linge"
     },
     {
       "rank": 33,
       "designation": "LE CHAT 2.5 KG BAG ADV23",
       "volume": 266,
-      "revenue_ht": 211470.0,
+      "revenue_ht": 204895.79,
       "category": "Soin du Linge"
     },
     {
       "rank": 34,
       "designation": "ISIS GOLD HDLD LAVENDER-DZ 1 L",
       "volume": 263,
-      "revenue_ht": 69695.0,
+      "revenue_ht": 67327.58,
       "category": "Soin du Linge"
     },
     {
       "rank": 35,
       "designation": "BREF MOUSSANT 1.75 L",
       "volume": 156,
-      "revenue_ht": 37284.0,
+      "revenue_ht": 36314.43,
       "category": "Nettoyants Surfaces"
     },
     {
       "rank": 36,
       "designation": "BREF TRIGGER MULTI-SURFACE 490 ML",
       "volume": 114,
-      "revenue_ht": 26562.0,
+      "revenue_ht": 25716.2,
       "category": "Nettoyants Surfaces"
     },
     {
       "rank": 37,
       "designation": "PRIL ISIS ANTIBACTERIEN 650 ML edition limitée",
       "volume": 108,
-      "revenue_ht": 20304.0,
+      "revenue_ht": 18730.04,
       "category": "Soin de la Vaisselle"
     },
     {
       "rank": 38,
       "designation": "Pril ISIS 1.25L antibac edition limitée",
       "volume": 72,
-      "revenue_ht": 22896.0,
+      "revenue_ht": 21068.99,
       "category": "Soin de la Vaisselle"
     },
     {
@@ -2930,37 +2930,37 @@ const DATASET = {
       "category": "Soin du Linge",
       "category_ar": "العناية بالملابس",
       "sales": {
-        "KHALIFA ABDERAHMANE": 5631927.0,
-        "MAAIZI ABDERAZZAK": 5269382.0,
+        "KHALIFA ABDERAHMANE": 5479597.38,
+        "MAAIZI ABDERAZZAK": 5072889.25,
         "SENOUCI ALI": 2821944.12,
-        "OUANE ABDELKADER": 3699187.0,
-        "KAROUCHI SEIFELISSLAM": 3018761.0
+        "OUANE ABDELKADER": 3584119.91,
+        "KAROUCHI SEIFELISSLAM": 2902284.03
       },
-      "total": 20441201.12
+      "total": 19860834.69
     },
     {
       "category": "Soin de la Vaisselle",
       "category_ar": "العناية بالأواني",
       "sales": {
-        "KHALIFA ABDERAHMANE": 2171464.0,
-        "MAAIZI ABDERAZZAK": 1071312.0,
+        "KHALIFA ABDERAHMANE": 2067143.06,
+        "MAAIZI ABDERAZZAK": 993015.87,
         "SENOUCI ALI": 2187545.28,
-        "OUANE ABDELKADER": 888376.0,
-        "KAROUCHI SEIFELISSLAM": 823764.0
+        "OUANE ABDELKADER": 832557.67,
+        "KAROUCHI SEIFELISSLAM": 784162.31
       },
-      "total": 7142461.28
+      "total": 6864424.2
     },
     {
       "category": "Nettoyants Surfaces",
       "category_ar": "منظفات الأسطح",
       "sales": {
-        "KHALIFA ABDERAHMANE": 883272.0,
-        "MAAIZI ABDERAZZAK": 642060.0,
+        "KHALIFA ABDERAHMANE": 858645.24,
+        "MAAIZI ABDERAZZAK": 617450.32,
         "SENOUCI ALI": 802067.04,
-        "OUANE ABDELKADER": 275214.0,
-        "KAROUCHI SEIFELISSLAM": 257781.5
+        "OUANE ABDELKADER": 266491.72,
+        "KAROUCHI SEIFELISSLAM": 248545.93
       },
-      "total": 2860394.54
+      "total": 2793200.26
     }
   ],
   "product_sales_matrix": [
@@ -2970,19 +2970,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 8900,
-          "ca": 801000.0
+          "ca": 771341.11
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 14275,
-          "ca": 1284750.0
+          "ca": 1250184.79
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 18400,
-          "ca": 1656000.0
+          "ca": 1593352.29
         },
         "OUANE ABDELKADER": {
           "qty": 8869,
-          "ca": 798210.0
+          "ca": 772857.78
         },
         "SENOUCI ALI": {
           "qty": 14600,
@@ -2990,7 +2990,7 @@ const DATASET = {
         }
       },
       "total_qty": 65044,
-      "total_ca": 5808262.0
+      "total_ca": 5656037.97
     },
     {
       "produit": "ISIS HS 750 G LEMON LIMITLESS",
@@ -2998,19 +2998,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 3384,
-          "ca": 720792.0
+          "ca": 693089.42
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 6480,
-          "ca": 1380240.0
+          "ca": 1343026.79
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 4812,
-          "ca": 1024956.0
+          "ca": 987326.46
         },
         "OUANE ABDELKADER": {
           "qty": 2808,
-          "ca": 598104.0
+          "ca": 578738.82
         },
         "SENOUCI ALI": {
           "qty": 4752,
@@ -3018,7 +3018,7 @@ const DATASET = {
         }
       },
       "total_qty": 22236,
-      "total_ca": 4702386.24
+      "total_ca": 4580475.74
     },
     {
       "produit": "PRIL ISIS LImited Edition 650 ML",
@@ -3026,19 +3026,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 1692,
-          "ca": 318096.0
+          "ca": 298743.78
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 3612,
-          "ca": 679056.0
+          "ca": 639249.14
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 2281,
-          "ca": 428828.0
+          "ca": 393426.71
         },
         "OUANE ABDELKADER": {
           "qty": 1404,
-          "ca": 263952.0
+          "ca": 243443.38
         },
         "SENOUCI ALI": {
           "qty": 9024,
@@ -3046,7 +3046,7 @@ const DATASET = {
         }
       },
       "total_qty": 18013,
-      "total_ca": 3211347.68
+      "total_ca": 3096278.7
     },
     {
       "produit": "BREF JAVEL PURE POWER 900 ML-DZ",
@@ -3054,19 +3054,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 1801,
-          "ca": 168393.5
+          "ca": 162436.2
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 7332,
-          "ca": 685542.0
+          "ca": 666164.18
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 5580,
-          "ca": 521730.0
+          "ca": 501626.04
         },
         "OUANE ABDELKADER": {
           "qty": 2076,
-          "ca": 194106.0
+          "ca": 187945.21
         },
         "SENOUCI ALI": {
           "qty": 8472,
@@ -3074,7 +3074,7 @@ const DATASET = {
         }
       },
       "total_qty": 25261,
-      "total_ca": 2303918.54
+      "total_ca": 2252318.67
     },
     {
       "produit": "LE CHAT REGULAR 2.5 l ADV23",
@@ -3082,19 +3082,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 367,
-          "ca": 299105.0
+          "ca": 286911.03
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 524,
-          "ca": 427060.0
+          "ca": 415977.32
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 606,
-          "ca": 493890.0
+          "ca": 475273.15
         },
         "OUANE ABDELKADER": {
           "qty": 516,
-          "ca": 420540.0
+          "ca": 407672.73
         },
         "SENOUCI ALI": {
           "qty": 220,
@@ -3102,7 +3102,7 @@ const DATASET = {
         }
       },
       "total_qty": 2233,
-      "total_ca": 1813842.8
+      "total_ca": 1759082.03
     },
     {
       "produit": "PRIL ISIS ULTRA POWER 1.25 L",
@@ -3110,19 +3110,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 420,
-          "ca": 133560.0
+          "ca": 128903.84
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 2280,
-          "ca": 725040.0
+          "ca": 697116.04
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 744,
-          "ca": 236592.0
+          "ca": 220426.7
         },
         "OUANE ABDELKADER": {
           "qty": 552,
-          "ca": 175536.0
+          "ca": 165767.26
         },
         "SENOUCI ALI": {
           "qty": 1080,
@@ -3130,7 +3130,7 @@ const DATASET = {
         }
       },
       "total_qty": 5076,
-      "total_ca": 1574740.8
+      "total_ca": 1516226.63
     },
     {
       "produit": "ISIS HS 1.5 KG LEMON LIMITLESS",
@@ -3138,19 +3138,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 360,
-          "ca": 150120.0
+          "ca": 143856.12
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 976,
-          "ca": 406992.0
+          "ca": 395169.69
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 1032,
-          "ca": 430344.0
+          "ca": 413062.01
         },
         "OUANE ABDELKADER": {
           "qty": 600,
-          "ca": 250200.0
+          "ca": 242536.33
         },
         "SENOUCI ALI": {
           "qty": 32,
@@ -3158,7 +3158,7 @@ const DATASET = {
         }
       },
       "total_qty": 3000,
-      "total_ca": 1250603.2
+      "total_ca": 1207571.35
     },
     {
       "produit": "PRIL ISIS ULTRA POWER 650 ML",
@@ -3166,19 +3166,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 852,
-          "ca": 160176.0
+          "ca": 153918.2
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 1920,
-          "ca": 360960.0
+          "ca": 348950.92
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 669,
-          "ca": 125772.0
+          "ca": 119779.99
         },
         "OUANE ABDELKADER": {
           "qty": 960,
-          "ca": 180480.0
+          "ca": 172164.74
         },
         "SENOUCI ALI": {
           "qty": 0,
@@ -3186,7 +3186,7 @@ const DATASET = {
         }
       },
       "total_qty": 4401,
-      "total_ca": 827388.0
+      "total_ca": 794813.86
     },
     {
       "produit": "LE CHAT HS ROSE 750 GR",
@@ -3194,19 +3194,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 288,
-          "ca": 67392.0
+          "ca": 64746.42
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 1644,
-          "ca": 384696.0
+          "ca": 373843.41
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 792,
-          "ca": 185328.0
+          "ca": 178561.82
         },
         "OUANE ABDELKADER": {
           "qty": 456,
-          "ca": 106704.0
+          "ca": 103082.17
         },
         "SENOUCI ALI": {
           "qty": 120,
@@ -3214,7 +3214,7 @@ const DATASET = {
         }
       },
       "total_qty": 3300,
-      "total_ca": 771043.2
+      "total_ca": 747157.02
     },
     {
       "produit": "LE CHAT HS 750 GR ADV23",
@@ -3222,19 +3222,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 576,
-          "ca": 134784.0
+          "ca": 129208.46
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 180,
-          "ca": 42120.0
+          "ca": 41198.82
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 384,
-          "ca": 89856.0
+          "ca": 86721.15
         },
         "OUANE ABDELKADER": {
           "qty": 669,
-          "ca": 156546.0
+          "ca": 151511.9
         },
         "SENOUCI ALI": {
           "qty": 792,
@@ -3242,7 +3242,7 @@ const DATASET = {
         }
       },
       "total_qty": 2601,
-      "total_ca": 601643.88
+      "total_ca": 586978.22
     },
     {
       "produit": "LE CHAT REGULAR 1 L ADV23",
@@ -3250,19 +3250,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 389,
-          "ca": 147042.0
+          "ca": 142258.15
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 520,
-          "ca": 196560.0
+          "ca": 192267.74
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 240,
-          "ca": 90720.0
+          "ca": 87331.31
         },
         "OUANE ABDELKADER": {
           "qty": 397,
-          "ca": 150066.0
+          "ca": 146592.35
         },
         "SENOUCI ALI": {
           "qty": 0,
@@ -3270,7 +3270,7 @@ const DATASET = {
         }
       },
       "total_qty": 1546,
-      "total_ca": 584388.0
+      "total_ca": 568449.56
     },
     {
       "produit": "LE CHAT HS 300 GR ADV23",
@@ -3278,19 +3278,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 1725,
-          "ca": 172500.0
+          "ca": 166657.8
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 275,
-          "ca": 27500.0
+          "ca": 26981.9
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 800,
-          "ca": 80000.0
+          "ca": 77121.44
         },
         "OUANE ABDELKADER": {
           "qty": 1600,
-          "ca": 160000.0
+          "ca": 154984.1
         },
         "SENOUCI ALI": {
           "qty": 1325,
@@ -3298,7 +3298,7 @@ const DATASET = {
         }
       },
       "total_qty": 5725,
-      "total_ca": 569114.0
+      "total_ca": 554859.24
     },
     {
       "produit": "PRIL ISIS ULTRA POWER 3 L",
@@ -3306,19 +3306,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 156,
-          "ca": 106020.0
+          "ca": 103025.09
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 136,
-          "ca": 99280.0
+          "ca": 94438.13
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 140,
-          "ca": 102200.0
+          "ca": 95696.16
         },
         "OUANE ABDELKADER": {
           "qty": 160,
-          "ca": 116800.0
+          "ca": 110678.45
         },
         "SENOUCI ALI": {
           "qty": 200,
@@ -3326,7 +3326,7 @@ const DATASET = {
         }
       },
       "total_qty": 792,
-      "total_ca": 556900.0
+      "total_ca": 536437.83
     },
     {
       "produit": "LE CHAT ROSE 2.5 L ADV23",
@@ -3334,19 +3334,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 130,
-          "ca": 105950.0
+          "ca": 102072.44
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 132,
-          "ca": 107580.0
+          "ca": 104688.82
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 189,
-          "ca": 154035.0
+          "ca": 148554.59
         },
         "OUANE ABDELKADER": {
           "qty": 170,
-          "ca": 138550.0
+          "ca": 134757.98
         },
         "SENOUCI ALI": {
           "qty": 20,
@@ -3354,7 +3354,7 @@ const DATASET = {
         }
       },
       "total_qty": 641,
-      "total_ca": 521864.8
+      "total_ca": 505823.63
     },
     {
       "produit": "BREF JAVEL REGULAR PURE POWER 1.75 L",
@@ -3362,19 +3362,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 414,
-          "ca": 68310.0
+          "ca": 65693.24
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 1068,
-          "ca": 176220.0
+          "ca": 171434.88
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 678,
-          "ca": 111870.0
+          "ca": 107682.45
         },
         "OUANE ABDELKADER": {
           "qty": 414,
-          "ca": 68310.0
+          "ca": 66120.39
         },
         "SENOUCI ALI": {
           "qty": 450,
@@ -3382,7 +3382,7 @@ const DATASET = {
         }
       },
       "total_qty": 3024,
-      "total_ca": 492630.0
+      "total_ca": 478850.96
     },
     {
       "produit": "PRIL ISIS Limited edition 1.25 L",
@@ -3390,19 +3390,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 168,
-          "ca": 53424.0
+          "ca": 49999.73
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 540,
-          "ca": 171720.0
+          "ca": 157572.8
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 408,
-          "ca": 129744.0
+          "ca": 118414.34
         },
         "OUANE ABDELKADER": {
           "qty": 360,
-          "ca": 114480.0
+          "ca": 105497.14
         },
         "SENOUCI ALI": {
           "qty": 60,
@@ -3410,7 +3410,7 @@ const DATASET = {
         }
       },
       "total_qty": 1536,
-      "total_ca": 486369.6
+      "total_ca": 448485.61
     },
     {
       "produit": "LE CHAT HS ROSE 300 GR",
@@ -3418,19 +3418,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 425,
-          "ca": 42500.0
+          "ca": 40769.79
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 2050,
-          "ca": 205000.0
+          "ca": 199157.11
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 1225,
-          "ca": 122500.0
+          "ca": 118002.95
         },
         "OUANE ABDELKADER": {
           "qty": 925,
-          "ca": 92500.0
+          "ca": 89146.42
         },
         "SENOUCI ALI": {
           "qty": 0,
@@ -3438,7 +3438,7 @@ const DATASET = {
         }
       },
       "total_qty": 4625,
-      "total_ca": 462500.0
+      "total_ca": 447076.27
     },
     {
       "produit": "LE CHAT HS POUDRE 1.5 KG",
@@ -3446,19 +3446,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 40,
-          "ca": 16600.0
+          "ca": 15879.1
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 328,
-          "ca": 136120.0
+          "ca": 132567.83
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 256,
-          "ca": 106240.0
+          "ca": 102064.66
         },
         "OUANE ABDELKADER": {
           "qty": 304,
-          "ca": 126160.0
+          "ca": 121886.99
         },
         "SENOUCI ALI": {
           "qty": 80,
@@ -3466,7 +3466,7 @@ const DATASET = {
         }
       },
       "total_qty": 1008,
-      "total_ca": 417488.0
+      "total_ca": 404766.58
     },
     {
       "produit": "LE CHAT REGULAR 4 L ADV23",
@@ -3474,19 +3474,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 42,
-          "ca": 48300.0
+          "ca": 44757.04
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 75,
-          "ca": 86250.0
+          "ca": 82935.53
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 78,
-          "ca": 89700.0
+          "ca": 86211.53
         },
         "OUANE ABDELKADER": {
           "qty": 144,
-          "ca": 165600.0
+          "ca": 160991.92
         },
         "SENOUCI ALI": {
           "qty": 6,
@@ -3494,7 +3494,7 @@ const DATASET = {
         }
       },
       "total_qty": 345,
-      "total_ca": 396510.0
+      "total_ca": 381556.02
     },
     {
       "produit": "LE CHAT SDM 2.5L ADV23",
@@ -3502,19 +3502,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 73,
-          "ca": 59495.0
+          "ca": 57483.88
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 114,
-          "ca": 92910.0
+          "ca": 90365.09
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 160,
-          "ca": 130400.0
+          "ca": 125750.53
         },
         "OUANE ABDELKADER": {
           "qty": 119,
-          "ca": 96985.0
+          "ca": 94030.33
         },
         "SENOUCI ALI": {
           "qty": 0,
@@ -3522,7 +3522,7 @@ const DATASET = {
         }
       },
       "total_qty": 466,
-      "total_ca": 379790.0
+      "total_ca": 367629.83
     },
     {
       "produit": "PRIL ISIS 3 L edition limitée",
@@ -3530,19 +3530,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 12,
-          "ca": 8760.0
+          "ca": 8373.41
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 108,
-          "ca": 78840.0
+          "ca": 76677.11
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 32,
-          "ca": 23360.0
+          "ca": 22220.23
         },
         "OUANE ABDELKADER": {
           "qty": 24,
-          "ca": 17520.0
+          "ca": 16830.31
         },
         "SENOUCI ALI": {
           "qty": 320,
@@ -3550,7 +3550,7 @@ const DATASET = {
         }
       },
       "total_qty": 496,
-      "total_ca": 340995.2
+      "total_ca": 336616.25
     },
     {
       "produit": "ISIS GOLD LS GEL 2.5 L",
@@ -3558,19 +3558,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 35,
-          "ca": 17850.0
+          "ca": 17234.99
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 260,
-          "ca": 132600.0
+          "ca": 129093.79
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 162,
-          "ca": 82620.0
+          "ca": 79578.93
         },
         "OUANE ABDELKADER": {
           "qty": 120,
-          "ca": 61200.0
+          "ca": 59425.22
         },
         "SENOUCI ALI": {
           "qty": 0,
@@ -3578,7 +3578,7 @@ const DATASET = {
         }
       },
       "total_qty": 577,
-      "total_ca": 294270.0
+      "total_ca": 285332.92
     },
     {
       "produit": "LE CHAT PREMIUM RL 2.5 L",
@@ -3586,19 +3586,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 64,
-          "ca": 63872.0
+          "ca": 61540.94
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 102,
-          "ca": 101796.0
+          "ca": 99611.93
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 68,
-          "ca": 67864.0
+          "ca": 65305.13
         },
         "OUANE ABDELKADER": {
           "qty": 44,
-          "ca": 43820.0
+          "ca": 42513.04
         },
         "SENOUCI ALI": {
           "qty": 0,
@@ -3606,7 +3606,7 @@ const DATASET = {
         }
       },
       "total_qty": 278,
-      "total_ca": 277352.0
+      "total_ca": 268971.03
     },
     {
       "produit": "ISIS GOLD 5 EN 1 HS 750 G",
@@ -3614,19 +3614,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 132,
-          "ca": 28116.0
+          "ca": 26820.47
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 696,
-          "ca": 148248.0
+          "ca": 144831.33
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 304,
-          "ca": 64752.0
+          "ca": 62630.33
         },
         "OUANE ABDELKADER": {
           "qty": 168,
-          "ca": 35784.0
+          "ca": 34609.63
         },
         "SENOUCI ALI": {
           "qty": 0,
@@ -3634,7 +3634,7 @@ const DATASET = {
         }
       },
       "total_qty": 1300,
-      "total_ca": 276900.0
+      "total_ca": 268891.77
     },
     {
       "produit": "ISIS GOLD 5 EN 1 300 G",
@@ -3642,19 +3642,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 425,
-          "ca": 38250.0
+          "ca": 36776.06
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 900,
-          "ca": 81000.0
+          "ca": 79489.16
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 975,
-          "ca": 87750.0
+          "ca": 84674.89
         },
         "OUANE ABDELKADER": {
           "qty": 425,
-          "ca": 38250.0
+          "ca": 36970.37
         },
         "SENOUCI ALI": {
           "qty": 0,
@@ -3662,7 +3662,7 @@ const DATASET = {
         }
       },
       "total_qty": 2725,
-      "total_ca": 245250.0
+      "total_ca": 237910.48
     },
     {
       "produit": "ISIS LS BAG 2.5 KG LEMON",
@@ -3670,19 +3670,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 8,
-          "ca": 5800.0
+          "ca": 5546.02
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 108,
-          "ca": 78300.0
+          "ca": 76067.08
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 124,
-          "ca": 89900.0
+          "ca": 86845.72
         },
         "OUANE ABDELKADER": {
           "qty": 60,
-          "ca": 43500.0
+          "ca": 42059.86
         },
         "SENOUCI ALI": {
           "qty": 0,
@@ -3690,7 +3690,7 @@ const DATASET = {
         }
       },
       "total_qty": 300,
-      "total_ca": 217500.0
+      "total_ca": 210518.68
     },
     {
       "produit": "LE CHAT 2.5 KG BAG ADV23",
@@ -3698,19 +3698,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 12,
-          "ca": 9540.0
+          "ca": 9159.97
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 92,
-          "ca": 73140.0
+          "ca": 71015.78
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 76,
-          "ca": 60420.0
+          "ca": 58545.3
         },
         "OUANE ABDELKADER": {
           "qty": 86,
-          "ca": 68370.0
+          "ca": 66174.74
         },
         "SENOUCI ALI": {
           "qty": 0,
@@ -3718,7 +3718,7 @@ const DATASET = {
         }
       },
       "total_qty": 266,
-      "total_ca": 211470.0
+      "total_ca": 204895.79
     },
     {
       "produit": "ISIS GOLD LAVENDER-DZ (B/L) - 2.5 L",
@@ -3726,19 +3726,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 21,
-          "ca": 10710.0
+          "ca": 10411.22
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 96,
-          "ca": 48960.0
+          "ca": 47491.56
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 116,
-          "ca": 59160.0
+          "ca": 56983.07
         },
         "OUANE ABDELKADER": {
           "qty": 96,
-          "ca": 48960.0
+          "ca": 47599.03
         },
         "SENOUCI ALI": {
           "qty": 0,
@@ -3746,7 +3746,7 @@ const DATASET = {
         }
       },
       "total_qty": 329,
-      "total_ca": 167790.0
+      "total_ca": 162484.88
     },
     {
       "produit": "NETTOYANT MOUSSANT JAVELISE 900 ML",
@@ -3754,19 +3754,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 156,
-          "ca": 20826.0
+          "ca": 20050.0
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 468,
-          "ca": 62478.0
+          "ca": 60738.58
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 72,
-          "ca": 9612.0
+          "ca": 9236.84
         },
         "OUANE ABDELKADER": {
           "qty": 204,
-          "ca": 27234.0
+          "ca": 26403.81
         },
         "SENOUCI ALI": {
           "qty": 0,
@@ -3774,7 +3774,7 @@ const DATASET = {
         }
       },
       "total_qty": 900,
-      "total_ca": 120150.0
+      "total_ca": 116429.24
     },
     {
       "produit": "ISIS BOUQUET JASMIN 950 ML",
@@ -3782,19 +3782,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 102,
-          "ca": 18462.0
+          "ca": 17811.08
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 222,
-          "ca": 40182.0
+          "ca": 38876.35
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 168,
-          "ca": 30408.0
+          "ca": 29230.83
         },
         "OUANE ABDELKADER": {
           "qty": 84,
-          "ca": 15204.0
+          "ca": 14684.73
         },
         "SENOUCI ALI": {
           "qty": 0,
@@ -3802,7 +3802,7 @@ const DATASET = {
         }
       },
       "total_qty": 576,
-      "total_ca": 104256.0
+      "total_ca": 100602.98
     },
     {
       "produit": "PRIL ISIS ANTIBACTERIEN 650 ML LEMON",
@@ -3810,19 +3810,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 156,
-          "ca": 29328.0
+          "ca": 27856.98
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 192,
-          "ca": 36096.0
+          "ca": 34359.38
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 120,
-          "ca": 22560.0
+          "ca": 20995.5
         },
         "OUANE ABDELKADER": {
           "qty": 72,
-          "ca": 13536.0
+          "ca": 12554.42
         },
         "SENOUCI ALI": {
           "qty": 0,
@@ -3830,7 +3830,7 @@ const DATASET = {
         }
       },
       "total_qty": 540,
-      "total_ca": 101520.0
+      "total_ca": 95766.28
     },
     {
       "produit": "ISIS BOUQUET LAVANDE 950 ML",
@@ -3838,19 +3838,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 133,
-          "ca": 24073.0
+          "ca": 22706.84
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 198,
-          "ca": 35838.0
+          "ca": 34361.62
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 92,
-          "ca": 16652.0
+          "ca": 16009.26
         },
         "OUANE ABDELKADER": {
           "qty": 101,
-          "ca": 18281.0
+          "ca": 17667.21
         },
         "SENOUCI ALI": {
           "qty": 0,
@@ -3858,7 +3858,7 @@ const DATASET = {
         }
       },
       "total_qty": 524,
-      "total_ca": 94844.0
+      "total_ca": 90744.93
     },
     {
       "produit": "ISIS BOUQUET ROSE 950 ML",
@@ -3866,19 +3866,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 72,
-          "ca": 13032.0
+          "ca": 12641.29
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 168,
-          "ca": 30408.0
+          "ca": 29096.99
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 140,
-          "ca": 25340.0
+          "ca": 24398.16
         },
         "OUANE ABDELKADER": {
           "qty": 60,
-          "ca": 10860.0
+          "ca": 10476.55
         },
         "SENOUCI ALI": {
           "qty": 0,
@@ -3886,7 +3886,7 @@ const DATASET = {
         }
       },
       "total_qty": 440,
-      "total_ca": 79640.0
+      "total_ca": 76612.98
     },
     {
       "produit": "ISIS GOLD HDLD LAVENDER-DZ 1 L",
@@ -3894,19 +3894,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 10,
-          "ca": 2650.0
+          "ca": 2554.39
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 75,
-          "ca": 19875.0
+          "ca": 19234.39
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 79,
-          "ca": 20935.0
+          "ca": 20116.9
         },
         "OUANE ABDELKADER": {
           "qty": 99,
-          "ca": 26235.0
+          "ca": 25421.9
         },
         "SENOUCI ALI": {
           "qty": 0,
@@ -3914,7 +3914,7 @@ const DATASET = {
         }
       },
       "total_qty": 263,
-      "total_ca": 69695.0
+      "total_ca": 67327.58
     },
     {
       "produit": "BREF MOUSSANT 1.75 L",
@@ -3922,19 +3922,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 18,
-          "ca": 4302.0
+          "ca": 4127.81
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 90,
-          "ca": 21510.0
+          "ca": 21046.18
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 12,
-          "ca": 2868.0
+          "ca": 2767.09
         },
         "OUANE ABDELKADER": {
           "qty": 36,
-          "ca": 8604.0
+          "ca": 8373.34
         },
         "SENOUCI ALI": {
           "qty": 0,
@@ -3942,7 +3942,7 @@ const DATASET = {
         }
       },
       "total_qty": 156,
-      "total_ca": 37284.0
+      "total_ca": 36314.43
     },
     {
       "produit": "BREF TRIGGER MULTI-SURFACE 490 ML",
@@ -3950,7 +3950,7 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 72,
-          "ca": 16776.0
+          "ca": 16288.68
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 0,
@@ -3958,11 +3958,11 @@ const DATASET = {
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 24,
-          "ca": 5592.0
+          "ca": 5374.73
         },
         "OUANE ABDELKADER": {
           "qty": 18,
-          "ca": 4194.0
+          "ca": 4052.78
         },
         "SENOUCI ALI": {
           "qty": 0,
@@ -3970,7 +3970,7 @@ const DATASET = {
         }
       },
       "total_qty": 114,
-      "total_ca": 26562.0
+      "total_ca": 25716.2
     },
     {
       "produit": "Pril ISIS 1.25L antibac edition limitée",
@@ -3978,11 +3978,11 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 24,
-          "ca": 7632.0
+          "ca": 7024.78
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 36,
-          "ca": 11448.0
+          "ca": 10505.51
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 0,
@@ -3990,7 +3990,7 @@ const DATASET = {
         },
         "OUANE ABDELKADER": {
           "qty": 12,
-          "ca": 3816.0
+          "ca": 3538.7
         },
         "SENOUCI ALI": {
           "qty": 0,
@@ -3998,7 +3998,7 @@ const DATASET = {
         }
       },
       "total_qty": 72,
-      "total_ca": 22896.0
+      "total_ca": 21068.99
     },
     {
       "produit": "PRIL ISIS ANTIBACTERIEN 650 ML edition limitée",
@@ -4006,19 +4006,19 @@ const DATASET = {
       "sales": {
         "KAROUCHI SEIFELISSLAM": {
           "qty": 36,
-          "ca": 6768.0
+          "ca": 6316.5
         },
         "KHALIFA ABDERAHMANE": {
           "qty": 48,
-          "ca": 9024.0
+          "ca": 8274.04
         },
         "MAAIZI ABDERAZZAK": {
           "qty": 12,
-          "ca": 2256.0
+          "ca": 2056.23
         },
         "OUANE ABDELKADER": {
           "qty": 12,
-          "ca": 2256.0
+          "ca": 2083.26
         },
         "SENOUCI ALI": {
           "qty": 0,
@@ -4026,7 +4026,7 @@ const DATASET = {
         }
       },
       "total_qty": 108,
-      "total_ca": 20304.0
+      "total_ca": 18730.04
     },
     {
       "produit": "LE CHAT HS GEL 1 L ADV23",
@@ -4057,7 +4057,7 @@ const DATASET = {
       "total_ca": 2648.0
     }
   ]
-};;;;;;;;;;;;;;;;;;;;;
+};;;;;;;;;;;;;;;;;;;;;;;;
 
 // ==========================================
 // 2. SIMULATORS FOR HISTORICAL GRAPHS
@@ -4132,7 +4132,7 @@ const translateProduct = (designation, lang) => {
     name = name.replace(regex, val);
   }
   return name;
-};;;;;;;
+};;;;;;;;;;
 
 const translateVerdict = (verdict, lang) => {
   if (lang !== 'ar') return verdict;
@@ -4334,7 +4334,7 @@ const REGIONAL_MATRIX = [
     },
     "total": 689339.56
   }
-];;;;;;;;;;;;;;;;;;;;;
+];;;;;;;;;;;;;;;;;;;;;;;;
 
 
 
