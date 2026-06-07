@@ -1,0 +1,21 @@
+# Node.js dependencies
+node_modules/
+dashboard/node_modules/
+
+# Build outputs
+dist/
+dashboard/dist/
+
+# Python cache and virtualenvs
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.venv/
+venv/
+ENV/
+
+# System files
+.DS_Store
+Thumbs.db

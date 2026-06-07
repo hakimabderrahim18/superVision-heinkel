@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Outfit:wght@300;400;500;600;700;800&family=Cairo:wght@300;400;500;600;700;800;900&display=swap');
+
+@theme {
+  /* Override default Tailwind rose color palette with HENKEL brand Burgundy Red scale */
+  --color-rose-50: #fdf2f4;
+  --color-rose-100: #fbe5e9;
+  --color-rose-200: #f7ccd5;
+  --color-rose-300: #f1a3b4;
+  --color-rose-400: #e7718e;
+  --color-rose-500: #d43f66;
+  --color-rose-600: #be254c;
+  --color-rose-700: #9e1b32; /* Core Henkel Ruby/Burgundy Red */
+  --color-rose-800: #831a2f;
+  --color-rose-900: #6f192b;
+  --color-rose-950: #3f0a14;
+}
+
+body {
+  font-family: 'Outfit', 'Inter', sans-serif;
+  margin: 0;
+  padding: 0;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Force Cairo font globally when layout switches to RTL Arabic mode for crystal-clear Arabic rendering */
+[dir="rtl"], [dir="rtl"] * {
+  font-family: 'Cairo', sans-serif !important;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: #374151;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #CBD5E1;
+  border-radius: 4px;
+}
+
+/* Glassmorphism Classes */
+.glass-panel-dark {
+  background: rgba(17, 24, 39, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.glass-panel-light {
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(0, 0, 0, 0.06);
+}
